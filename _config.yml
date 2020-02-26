@@ -1,25 +1,23 @@
-title: Hello, world! I'm David Freeman
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Hello, world! I'm Sant_J
+description: 아날로그를 지향하는 개발자 Sant_J의 프로젝트 블로그 입니다. 프로젝트 내용과 개발자의 History를 확인 하실 수 있습니다. # this means to ignore newlines until "baseurl:"
+  
 permalink: ':title/'
 baseurl: / # the subpath of your site, e.g. /blog
 url: "http://tmdwo5811.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
+author: Sant_J(Yoon Seung-Jae) # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+about-author: 디지털 보다 아날로그를 지향하는 문과 출신 개발자 SantJ 프로젝트 블로그에 오신것을 환영합니다. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
+social-github: tmdwo5811# add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: santj5811@gmail.com# add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: seungjaeyoon # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
@@ -31,7 +29,7 @@ plugins:
   - jekyll-paginate
   - jemoji
 
-paginate: 8
+paginate: 4
 paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
