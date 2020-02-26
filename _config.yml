@@ -10,10 +10,10 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Sant_J(Yoon Seung-Jae) # add your name
 author-img: Santj.jpg # add your photo
 about-author: <span style="background-color:#51617a;color:#fff;">Analog를</span> 지향하는<br>비전공 문과 출신 개발자</br>SantJ 프로젝트 블로그에 오신것을 환영합니다. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
+#social-twitter: # add your Twitter handle
+#social-facebook: # add your Facebook handle
 social-github: tmdwo5811# add your Github handle
-social-linkedin: # add your Linkedin handle
+#social-linkedin: # add your Linkedin handle
 social-email: santj5811@gmail.com# add your Email address
 
 # Disqus
