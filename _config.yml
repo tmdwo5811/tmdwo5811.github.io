@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Sant_J(Yoon Seung-Jae) # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: 디지털 보다 아날로그를 지향하는 \n 문과 출신 개발자 \n SantJ 프로젝트 블로그에 오신것을 환영합니다. # add description
+about-author: 디지털 보다 아날로그를 지향하는</br>문과 출신 개발자</br>SantJ 프로젝트 블로그에 오신것을 환영합니다. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: tmdwo5811# add your Github handle
