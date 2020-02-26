@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sant_J, Who am I?
+title: Sant_J, Who am I? "나는 누구인가"
 date: 2020-02-27 03:33:00 +0900
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: whoami.jpg # Add image post (optional)
