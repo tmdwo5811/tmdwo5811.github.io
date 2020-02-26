@@ -18,7 +18,7 @@ tags: [Holidays, Hawaii]
 
 ## Sant_J의 가치관 그리고 독백 (※반말 주의)
 
-![Survival Family image]({{site.baseurl}}/assets/img/movieCut.jpg)
+![Survival Family image]({{site.baseurl}}/assets/img/movieCut.jpg){:.aligncenter}
 
 >Digital(디지털) 보다는  
 Analog(아날로그)를 지향하는 개발자.
