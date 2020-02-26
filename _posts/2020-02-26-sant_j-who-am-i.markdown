@@ -13,6 +13,7 @@ tags: [Holidays, Hawaii]
 
 
 ## 나의 Dev Life 그래프를 정리 해보다.
+> * 2020.02.26 기준
 
 ![I and My friends]({{site.baseurl}}/assets/img/blogTimeLine.jpg)
 
