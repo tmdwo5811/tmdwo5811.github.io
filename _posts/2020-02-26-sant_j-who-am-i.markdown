@@ -20,7 +20,7 @@ tags: [Holidays, Hawaii]
 
 ![Survival Family image]({{site.baseurl}}/assets/img/movieCut.jpg){:.aligncenter}
 
->Digital(디지털) 보다는  Analog(아날로그)를 지향하는 개발자.
+>Sant_J는 Digital(디지털) 보다는  Analog(아날로그)를 지향하는 개발자.
 
 영화 _"서바이벌 패밀리 | Survival Family"_를 우연한 계기로 보게 되었다. 코미디 장르의 영화인데 개발자의 삶을 살아가고 있는 나에게 적지 않은 메세지를 전달받게된 영화이다.  
 Digital(디지털)은 우리에게 편리함을 주면서, 우리가 감수해야할 수고스러움을 대신 해주며 우리에게 *나태함*을 선사하는것같다. Analog(아날로그)는 우리가 사용하기에 비록 수고스럽지만 부지런함을 덤으로 챙겨주곤한다. 고로 나는 부지런한 개발자로 살고자 Analog(아날로그)를 지향하는 좋은 개발자로 살고싶다.
