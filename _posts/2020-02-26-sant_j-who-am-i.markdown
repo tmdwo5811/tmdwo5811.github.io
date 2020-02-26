@@ -5,7 +5,7 @@ date: 2020-02-27 03:33:00 +0900
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: whoami.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Holidays, Hawaii]
+tags: [JAVA/Spring, 개발자]
 ---
 어릴 때 컴퓨터를 접하게 된 이후 프로그래머에 대한 동경이 있었습니다. 친구들은 게임 플레이를 좋아했지만, 어릴적 저는 해킹 프로그램, 에디터 프로그램, 각종 게임 핵 사용과 구동 원리에 관심이 많았었습니다. 초등학교 졸업 이후 부모님의 권유로 중국에 유학을 가게 되었고, 중국에 가서도 컴퓨터로 할 수 있는 수치 조작, 컴퓨터 해킹에 대한 저의 궁금증은 여전하여, 유학 생활 중에도 컴퓨터 언어를 배우게 된다면 컴퓨터에서 일어나는 모든 일을 할 수가 있겠구나 라는 동경심이 굳어져 가기도 전에 당시 주변 지인들의 말만 듣고 프로그래밍은 어렵고 복잡하고 너는 하지 못할 것이다 라는 말을 들으며, 유학생활이 지속 되어 프로그래밍에 대한 잠시 접어두게 되었습니다. 고등학교 진학 이후  본격적으로 중국어 공부와 학교 공부에 집중하기 시작하였고 이후 대학 과정 까지의 학업을 모두 마치게 되었습니다.  
 
