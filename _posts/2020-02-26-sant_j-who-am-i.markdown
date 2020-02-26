@@ -16,17 +16,21 @@ tags: [Holidays, Hawaii]
 
 대학 시절 프로젝트성 창업을 통해 웹 퍼블리싱과 웹 프로그래밍에 대한 관심을 갖게 되었고, 창업 3년차에  HTML, CSS, jQuery를 독학하여 gabia, cafe24등 솔루션 기반의 웹 사이트를 구축하여, 프론트 엔드 코딩 경험을 하게 되었고, 자체 쇼핑몰 구축/운영을 경험하게 되었습니다. 이 시점 부터 사업보다는 코딩에 대한 흥미가 높아져, 사업가 보다는 개발자 라는 직업에 관심과 동경이 늘어갔고, 어렸을 적 높아만 보였던 프로그래밍이라는 문을 두드리며 코딩으로 하루 하루 밤을 지새우는 날이 늘어갔습니다. 솔루션 기반의 쇼핑몰에 프론트엔드 코딩만 하기에는 커스터 마이징을 하고 싶은 부분이 너무나도 많았고, 대학 졸업 이후 고민 끝에 폐업을 결심하고 온라인 강의와 오프라인 교육 과정을 통해 지금의 "비전공 문과 출신 개발자 SantJ"로 거듭나게 되었습니다.
 
+## Sant_J의 가치관 그리고 독백 (※반말 주의)
+
+![Survival Family image]({{site.baseurl}}/assets/img/movieCut.jpg)
+
 >Digital(디지털) 보다는  
 Analog(아날로그)를 지향하는 개발자.
 
 영화 _"서바이벌 패밀리 | Survival Family"_를 우연한 계기로 보게 되었다. 코미디 장르의 영화인데 개발자의 삶을 살아가고 있는 나에게 적지 않은 메세지를 전달받게된 영화이다.  
-Digital(디지털)은 우리에게 편리함을 주면서, 우리가 감수해야할 수고스러움을 대신 해주며 우리에게 *나태함*을 선사하는것같다. Analog(아날로그)는 우리가 사용하기에 비록 수고스럽지만 부지런함을 덤으로 챙겨주곤한다. 고로 나는 부지런한 개발자로 살고자 Analog(아날로그)를 자향하는 개발자로 살고싶다.
+Digital(디지털)은 우리에게 편리함을 주면서, 우리가 감수해야할 수고스러움을 대신 해주며 우리에게 *나태함*을 선사하는것같다. Analog(아날로그)는 우리가 사용하기에 비록 수고스럽지만 부지런함을 덤으로 챙겨주곤한다. 고로 나는 부지런한 개발자로 살고자 Analog(아날로그)를 지향하는 좋은 개발자로 살고싶다.
 
 * 겸손함
 * 경청의 습관
-* 오픈마인드
-* 부지런함
+* 끊임없는 학습
 
-좋은 개발자로 거듭나기 위한 4가지 덕목을 뽑아 보았습니다.
+좋은 개발자가 되기 위한 가장 중요한 3가지 덕목, 혼자 아무리 빨리 배우고 학습한다 하여도 기술을 습득 하는 속도 보다 현 시간에도 출시 되는 신기술의 속도가 더욱 빠르기에, 어떤 상황에서도 개발자는 겸손 하여야 하지 않을까? 물론 기술의 학습 속도를 떠나, 내가 알고 있는 개발자는 협업을 통해 프로젝트를 진행 하곤하는데, 사람과 사람이 모여있는 곳엔 트러블이 있기 마련, 겸손한 사람이 한명도 없다면, 자기자신을 되돌아보고 뉘우칠줄아는 사람이 없다면, 아무리 실력이 좋은 개발자, 머리좋은 기획자, 센스있는 디자이너가 모인 어벤져스라 할지라도, 좋은 팀웍을 발휘하는데엔 서로의 배려와 존중이 있어야  팀웍이라는 스킬이 발동되는것 같다. 또한 존중과 배려 이전에 서로의 의견과 고충 그리고 방향성에 대한 의견을 경청할줄 알아야 소통이라는것이 이루어 지게되고, 무수히 많은 개발자들 가운데 내가 속한 팀이 IT업계에서 성과를 내기엔 기술력이 갖춰줘야 하고, 위 세가지 덕목이 하나라도 부족하다면, 남 탓 하기를 좋아 하거나, 팀에 융화 되기가 어렵다거나 도태되기 쉬운 개발자로 급변하는 현시대에 좋은 개발자가 되기엔 쉽지 않을것이라 생각하는 바이다.
 
-Echo park try-hard irony tbh vegan pok pok. Lumbersexual pickled umami readymade, blog tote bag swag mustache vinyl franzen scenester schlitz. Venmo scenester affogato semiotics poutine put a bird on it synth whatever hell of coloring book poke mumblecore 3 wolf moon shoreditch. Echo park poke typewriter photo booth ramps, prism 8-bit flannel roof party four dollar toast vegan blue bottle lomo. Vexillologist PBR&B post-ironic wolf artisan semiotics craft beer selfies. Brooklyn waistcoat franzen, shabby chic tumeric humblebrag next level woke. Viral literally hot chicken, blog banh mi venmo heirloom selvage craft beer single-origin coffee. Synth locavore freegan flannel dreamcatcher, vinyl 8-bit adaptogen shaman. Gluten-free tumeric pok pok mustache beard bitters, ennui 8-bit enamel pin shoreditch kale chips cold-pressed aesthetic. Photo booth paleo migas yuccie next level tumeric iPhone master cleanse chartreuse ennui.
+Analog(아날로그)는 책, 인간의 소통, 부지런한 움직임을 통해 나에게 3가지 덕목을 챙겨 줄것이라 생각한다.
+고로 나는 Analog(아날로그)를 지향하는 개발자로 살고싶다.
